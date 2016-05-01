@@ -22,4 +22,7 @@
     // Update the view, if already loaded.
 }
 
+- (IBAction)btnClick:(id)sender {
+    NSLog(@"%s Here we go", __PRETTY_FUNCTION__);
+}
 @end

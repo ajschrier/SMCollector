@@ -9,6 +9,7 @@
 #import <Cocoa/Cocoa.h>
 
 @interface ViewController : NSViewController
+- (IBAction)btnClick:(id)sender;
 
 
 @end
